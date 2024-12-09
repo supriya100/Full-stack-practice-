@@ -2,12 +2,8 @@
 <html>
   <head>
     <title>Hello, World!</title>
-    <h1>hello</h1>
-    <h2>hello</h2>
-    <h3>hello</h3>
-    <h4>hello</h4>
-    <h5>hello</h5>
-    <h6>hello</h6>
+    <p>this is a paragraph <hr /></p>
+    <p>this is a br example<br/> which is a void tag</p>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
