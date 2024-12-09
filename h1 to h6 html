@@ -4,6 +4,7 @@
     <title>Hello, World!</title>
     <p>this is a paragraph <hr /></p>
     <p>this is a br example<br/> which is a void tag</p>
+    <a href="www.google.com">products link on google</a>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
