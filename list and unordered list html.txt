@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <ul>
+      <li>
+        messages
+      </li>
+      <ol><li>read</li>
+      <li>Unread</li></ol>
+      <li>signup</li>
+      <ol><li>register</li>
+      <li>logIn</li></ol>
+      <li>account</li>
+      <ol>
+        <li>verified</li>
+        <li>unverified</li>
+      </ol>
+      <li>password</li>
+      <ol>
+        <li>locked</li>
+        <li>unlocked</li>
+      </ol>
+    </ul>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Hello World! </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>
