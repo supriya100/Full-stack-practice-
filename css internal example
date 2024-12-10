@@ -1,0 +1,9 @@
+<style>
+    h1{
+        background-color: antiquewhite;
+    }
+</style>
+<body>
+
+    <h1>this is an example of internal styles</h1>
+</body>
