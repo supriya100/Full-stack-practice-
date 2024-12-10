@@ -1,0 +1,12 @@
+h1 {
+    font-size: large;
+}
+
+.classSelectors {
+    background-color: blue;
+    font-size: larger;
+}
+
+#main-heading  {
+background-color: pink;
+}
