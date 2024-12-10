@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>this is the titile of the page</title>
+    </head>
+    <body>
+        <h1 style="background-color: blue;">this is an example of the inline css</h1>
+    </body>
+</html>
