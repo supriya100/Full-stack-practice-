@@ -1,0 +1,5 @@
+h1{
+    backgroundColor: blue;
+}
+
+<h1 class="h1">this is an example of external style</h1>
